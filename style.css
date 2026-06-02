@@ -158,4 +158,7 @@ textarea{
     border:1px solid #ddd;
     border-radius:5px;
 }
-
+#contact{
+    background:white;
+    border-radius:10px;
+}
