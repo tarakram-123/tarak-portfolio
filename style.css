@@ -76,6 +76,15 @@ nav a{
     transition:.3s;
 }
 
+.profile{
+    text-align:center;
+}
+
+.profile img{
+    width:180px;
+    border-radius:50%;
+}
+
 .skills div{
     background:white;
     padding:15px 25px;
