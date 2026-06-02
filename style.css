@@ -106,7 +106,20 @@ nav a{
     transition:.3s;
 
 }
+.stats{
+    display:flex;
+    justify-content:center;
+    gap:25px;
+    flex-wrap:wrap;
+}
 
+.stat-box{
+    background:white;
+    padding:25px;
+    width:180px;
+    border-radius:10px;
+    box-shadow:0 2px 12px rgba(0,0,0,.1);
+}
 .card:hover{
     transform:translateY(-8px);
 }
