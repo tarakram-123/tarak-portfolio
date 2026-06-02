@@ -54,6 +54,10 @@ nav a{
     text-decoration:none;
     border-radius:5px;
 }
+.btn:hover{
+    transform:scale(1.05);
+    transition:.3s;
+}
 
 .section{
     padding:80px 10%;
