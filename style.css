@@ -162,3 +162,15 @@ textarea{
     background:white;
     border-radius:10px;
 }
+.bar{
+    height:10px;
+    background:#ddd;
+    border-radius:20px;
+    }
+    
+    .bar span{
+    display:block;
+    height:100%;
+    background:#2563eb;
+    border-radius:20px;
+    }
