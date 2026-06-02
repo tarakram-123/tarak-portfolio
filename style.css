@@ -54,3 +54,12 @@ nav a{
     text-decoration:none;
     border-radius:5px;
 }
+
+.section{
+    padding:80px 10%;
+    text-align:center;
+}
+
+.section h2{
+    margin-bottom:20px;
+}
