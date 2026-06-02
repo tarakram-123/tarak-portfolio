@@ -146,11 +146,9 @@ nav a{
     transform:translateY(-8px);
 }
 footer{
-    background:#1e293b;
-    color:white;
-    text-align:center;
-    padding:20px;
-}
+    margin-top:50px;
+    letter-spacing:.5px;
+    }
 input,
 textarea{
     width:350px;
