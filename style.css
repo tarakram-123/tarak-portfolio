@@ -28,9 +28,9 @@ nav ul{
     gap:20px;
 }
 
-nav a{
-    color:white;
-    text-decoration:none;
+nav a:hover{
+    color:#60a5fa;
+    transition:.3s;
 }
 
 .hero{
