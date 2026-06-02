@@ -46,6 +46,10 @@ nav a{
 .hero p{
     font-size:1.2rem;
 }
+.card:hover,
+.stat-box:hover{
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+}
 
 .btn{
     display:inline-block;
