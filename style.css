@@ -9,7 +9,9 @@ body{
     background:linear-gradient(to bottom,#f8fafc,#e2e8f0);
     color:#333;
 }
-
+.section{
+    padding:100px 10%;
+    }
 nav{
     display:flex;
     justify-content:space-between;
