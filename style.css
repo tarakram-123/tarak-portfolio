@@ -103,8 +103,13 @@ nav a{
     width:350px;
     margin:auto;
     box-shadow:0 3px 12px rgba(0,0,0,0.1);
+    transition:.3s;
+
 }
 
+.card:hover{
+    transform:translateY(-8px);
+}
 footer{
     background:#1e293b;
     color:white;
