@@ -39,11 +39,12 @@ nav a{
 }
 
 .hero h1{
-    font-size:3rem;
+    letter-spacing:1px;
+    font-weight:700;
 }
 
 .hero p{
-    margin:20px 0;
+    font-size:1.2rem;
 }
 
 .btn{
